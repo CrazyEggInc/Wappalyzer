@@ -11084,6 +11084,19 @@
 			],
 			"icon": "vwo.svg",
 			"website": "https://vwo.com/"
+		},
+		"Mouse Flow": {
+			"cats": [
+				"10"
+			],
+			"script": [
+				"cdn\\.mouseflow\\.com"
+			],
+			"env": [
+				"_mfq"
+			],
+			"icon": "mouseflow.png",
+			"website": "https://mouseflow.com/"
 		}
 	},
 	"categories": {
