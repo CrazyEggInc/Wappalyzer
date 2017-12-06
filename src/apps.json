@@ -11122,6 +11122,18 @@
 			],
 			"icon": "amplitude.png",
 			"website": "https://amplitude.com/"
+		},
+		"GoSquared": {
+			"cats": [
+				"10",
+				"52",
+				"53"
+			],
+			"env": [
+				"_gs;confidence:30"
+			],
+			"icon": "gosquared.png",
+			"website": "https://www.gosquared.com/"
 		}
 	},
 	"categories": {
