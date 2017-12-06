@@ -11112,6 +11112,16 @@
 			],
 			"icon": "inspectlet.png",
 			"website": "https://www.inspectlet.com/"
+		},
+		"Amplitude": {
+			"cats": [
+				"10"
+			],
+			"script": [
+				"cdn\\.amplitude\\.com"
+			],
+			"icon": "amplitude.png",
+			"website": "https://amplitude.com/"
 		}
 	},
 	"categories": {
